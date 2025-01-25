@@ -1,0 +1,11 @@
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\bin\Debug\net8.0\MT5Bridge.Core.deps.json
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\bin\Debug\net8.0\MT5Bridge.Core.dll
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\bin\Debug\net8.0\MT5Bridge.Core.pdb
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\obj\Debug\net8.0\MT5Bridge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\obj\Debug\net8.0\MT5Bridge.Core.AssemblyInfoInputs.cache
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\obj\Debug\net8.0\MT5Bridge.Core.AssemblyInfo.cs
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\obj\Debug\net8.0\MT5Bridge.Core.csproj.CoreCompileInputs.cache
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\obj\Debug\net8.0\MT5Bridge.Core.dll
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\obj\Debug\net8.0\refint\MT5Bridge.Core.dll
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\obj\Debug\net8.0\MT5Bridge.Core.pdb
+C:\Users\ALPHA\.dotnet\MT5Bridge\MT5Bridge.Core\obj\Debug\net8.0\ref\MT5Bridge.Core.dll
